@@ -1,0 +1,74 @@
+[
+    {
+        "company":"Deolonics Implementation",
+        "roles":[
+            {
+                "role":"CEO",
+                "months":[
+                    {
+                        "month":"JAN-2021",
+                        "value":50
+                    },
+                    {
+                        "month":"FEB-2021",
+                        "value":100
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "company":"Crystal Shield Inc",
+        "roles":[
+            {
+                "role":"Director",
+                "months":[
+                    {
+                        "month":"MAR-2021",
+                        "value":150
+                    },
+                    {
+                        "month":"APR-2021",
+                        "value":200
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "company":"GreenClick Implementation",
+        "roles":[
+            {
+                "role":"Head of CS",
+                "months":[
+                    {
+                        "month":"JAN-2021",
+                        "value":250
+                    },
+                    {
+                        "month":"FEB-2021",
+                        "value":100
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "company":"HardBank Hotel Implementation",
+        "roles":[
+            {
+                "role":"Area SM",
+                "months":[
+                    {
+                        "month":"JAN-2021",
+                        "value":300
+                    },
+                    {
+                        "month":"FEB-2021",
+                        "value":100
+                    }
+                ]
+            }
+        ]
+    }
+]
